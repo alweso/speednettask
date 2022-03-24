@@ -44,13 +44,14 @@ export default function App() {
   }, [changer] )
 
 
+
 function handleChange() {
     setChanger(!changer);
 }
 
   return (
     <HashRouter>
-      <div className="container-fluid">
+      <div className="container">
         <div className="row">
         <ListHeader items={data}/>
           <div className="col-6">

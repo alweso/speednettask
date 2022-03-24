@@ -56,6 +56,7 @@ a:hover {
   p {
     margin: 0;
     color: white;
+    text-align: center;
   }
 }
 
@@ -66,8 +67,8 @@ a:hover {
   padding: 0;
 
   li {
-    background-color: rgba(255,255,255,0.08);
-  margin: 7px;
+  background-color: rgba(255,255,255,0.08);
+  margin: 7px 0;
   text-align: left;
   border: 1px solid rgba(255,255,255,0.2);
   transition: background-color 1s;
@@ -113,37 +114,38 @@ a:hover {
 
 /* --------------------------------------- Details -------------------------------------- */
 
-.details {
-  background-color: rgba(255,255,255,0.08);
-  text-align: left;
-  border: 1px solid rgba(255,255,255,0.2);
-  padding: 20px;
-  margin-top: 85px;
-  position: fixed;
-  width: 100%;
-  p {
-    font-size: 16px;
+  .details {
+    background-color: rgba(255,255,255,0.08);
+    text-align: left;
+    border: 1px solid rgba(255,255,255,0.2);
+    padding: 20px;
+    margin-top: 85px;
+    position: fixed;
+    width: calc(50vw - 50px);
+    p {
+      font-size: 16px;
+    }
+
+    a {
+        text-align: center;
+        display: block;
+        /* border: 1px solid rgba(255,255,255,0.6); */
+        padding: 10px;
+        margin-top: 15px;
+        font-size: 18px;
+        text-transform: uppercase;
+        background-color: rgba(255,255,255,0.08);
+        border: 1px solid rgba(255,255,255,0.3);
+        transition: background-color 1s;
+
+        &:hover {
+          background-color: rgba(255,255,255,0.22);
+        }
+    }
+
+    @include shadow(0.4);
   }
 
-  a {
-      text-align: center;
-      display: block;
-      /* border: 1px solid rgba(255,255,255,0.6); */
-      padding: 10px;
-      margin-top: 15px;
-      font-size: 18px;
-      text-transform: uppercase;
-      background-color: rgba(255,255,255,0.08);
-      border: 1px solid rgba(255,255,255,0.3);
-      transition: background-color 1s;
-
-      &:hover {
-        background-color: rgba(255,255,255,0.22);
-      }
-  }
-
-  @include shadow(0.4);
-}
 
 @keyframes gradient {
 	0% {
