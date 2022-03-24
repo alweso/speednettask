@@ -7,8 +7,12 @@ console.log(props)
   }
 
   return (
-    <header className="list_header">
-        <p>Przeczytane elementy: {readItems && readItems.length} / {items && items.length}</p>
+    <header className="col-12 list_header">
+      <div className="row">
+      <div className="col-12">
+          <p>Przeczytane elementy: {readItems && readItems.length} / {items && items.length}</p>
+      </div>
+      </div>
     </header>
   );
 }
