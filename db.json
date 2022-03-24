@@ -60,7 +60,7 @@
       "id": 107795227,
       "from": "Walutomat - Onet mailingi@onet.pl",
       "sent_date": "2021-12-13 09:00:02",
-      "is_unread": true,
+      "is_unread": false,
       "subject": "sssssssssssssss",
       "snippet": "Odbierz 50% rabatu na wymianę online"
     },
@@ -68,7 +68,7 @@
       "id": 108795324,
       "from": "Walutomat - Onet mailingi@onet.pl",
       "sent_date": "2021-12-13 09:00:02",
-      "is_unread": true,
+      "is_unread": false,
       "subject": "Zrób coś zupełnie innego!",
       "snippet": "Nie mam zielonego pojęcia co."
     },
@@ -108,7 +108,7 @@
       "id": 113795227,
       "from": "Walutomat - Onet mailingi@onet.pl",
       "sent_date": "2021-12-13 09:00:02",
-      "is_unread": true,
+      "is_unread": false,
       "subject": "sssssssssssssss",
       "snippet": "Odbierz 50% rabatu na wymianę online"
     },
@@ -116,7 +116,7 @@
       "id": 114795324,
       "from": "Walutomat - Onet mailingi@onet.pl",
       "sent_date": "2021-12-13 09:00:02",
-      "is_unread": true,
+      "is_unread": false,
       "subject": "Zrób coś zupełnie innego!",
       "snippet": "Nie mam zielonego pojęcia co."
     },
@@ -140,7 +140,7 @@
       "id": 117795227,
       "from": "Added via API - Onet mailingi@onet.pl",
       "sent_date": "2021-12-13 09:00:02",
-      "is_unread": true,
+      "is_unread": false,
       "subject": "Api apiddd",
       "snippet": "Odbierz 50% rabatu na wymianę online"
     },
@@ -148,7 +148,7 @@
       "id": 118795229,
       "from": "Walutomat - Onet mailingi@onet.pl",
       "sent_date": "2021-12-13 09:00:02",
-      "is_unread": true,
+      "is_unread": false,
       "subject": "sssssssssssssss",
       "snippet": "Odbierz 50% rabatu na wymianę online"
     },
@@ -156,7 +156,7 @@
       "id": 119795227,
       "from": "Walutomat - Onet mailingi@onet.pl",
       "sent_date": "2021-12-13 09:00:02",
-      "is_unread": true,
+      "is_unread": false,
       "subject": "sssssssssssssss",
       "snippet": "Odbierz 50% rabatu na wymianę online"
     },
@@ -164,7 +164,7 @@
       "id": 120795324,
       "from": "Walutomat - Onet mailingi@onet.pl",
       "sent_date": "2021-12-13 09:00:02",
-      "is_unread": true,
+      "is_unread": false,
       "subject": "Zrób coś zupełnie innego!",
       "snippet": "Nie mam zielonego pojęcia co."
     },
