@@ -120,7 +120,7 @@ a:hover {
     padding: 20px;
     margin-top: 85px;
     position: fixed;
-    width: 400px;
+    width: calc(50vw - 50px);
     p {
       font-size: 16px;
     }
